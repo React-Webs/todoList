@@ -1,0 +1,28 @@
+.speedDial {
+    right: 25px;
+    bottom: 25px;
+    position: fixed;
+}
+
+.header {
+    height:75px;
+    width:100%;
+    background: #d6d6ee;
+    position:fixed;
+    top:0px;
+    left:0px;
+}
+
+.navigation {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    background-color: rgba(190, 190, 190, 0.77);
+}
+
+.navigationBox {
+    margin: 0 auto !important;
+    border: 0px solid !important;
+    color: #cdcdcd;
+    background-color: #c5c5c5;
+}
